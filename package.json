@@ -53,7 +53,7 @@
     "simple-spinner": "0.0.5",
     "source-map-support": "^0.4.6",
     "temp": "^0.8.3",
-    "update-notifier": "^1.0.2",
+    "update-notifier": "^1.0.3",
     "yargs": "^6.0.0",
     "zen-observable": "^0.3.0"
   },
